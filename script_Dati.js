@@ -7,7 +7,7 @@
 
 
 // Inserisci url del file UnMinuto
-const url = `https://docs.google.com/spreadsheets/d/1zew3_cuU6tJRig05MrQCRk_q8k8o7Pzq/gviz/tq?tqx=responseHandler:myCallback`;
+const url = `https://docs.google.com/spreadsheets/d/1klI0G-a9qVQZw6rI-b94qTbWW3n9al3x/gviz/tq?tqx=responseHandler:myCallback`;
 
 
 
